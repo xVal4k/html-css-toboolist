@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #F6F8F9;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+.header img {
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.header span {
+    vertical-align: middle;
+    height: 100px;
+}
+
+nav {
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 75%;
+    padding: 10px;
+    padding-left: 40px;
+    border-radius: 10px;  
+}
+
+main {
+    background-color: white;
+    margin: 2px auto;
+    width: 75%;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#but-task {
+    border: solid 1px;
+    border-radius: 5px;
+    color: white;
+    background-color: #45ABEA;
+    border-color: #45ABEA;
+    font-size: 8px;
+    padding: 6px 10px;
+}
+
+#but-section {
+    border: solid 1px;
+    border-radius: 5px;
+    color: lightgrey;
+    background-color: white;
+    border-color: lightgrey;
+    font-size: 8px;
+    padding: 5px 10px;
+}
+
+section {
+    padding-bottom: 15px;
+}
+
+ .Inline-title {
+    display: inline-block;
+} 
+
+p {
+    line-height: 2.5;
+}
+
+.check-circle {
+    border-radius: 100%;
+    font-size: 8px;
+    padding: 2px 4px;
+   border: 2px solid #72C7B3;
+   color: #72C7B3; 
+}
+
+.cross-circle {
+    border-radius: 100%;
+    font-size: 8px;
+    padding: 2px 4px;
+   border: 2px solid #ED6E69;
+   color: #ED6E69; 
+}
+
+ button {
+    border-radius: 10px;
+    color: white;
+    font-size: 8px;
+    border: 5px;
+    padding: 5px 10px;
+} 
+
+.edit {
+    background-color: #45ABEA;
+}
+
+#goals {
+    background-color: #9C72E4;
+}
+
+#recruit {
+    background-color: #64C0A9;
+}
+
+#mobile {
+    background-color: #F29E33;
+}
+
+#web {
+    background-color: #D0609B;
+}
+
+#sales {
+    background-color: #97AC25;
+}
+
